@@ -40,13 +40,6 @@ Salut ! 👋 Je suis **Omar Zinane**, un développeur Full Stack passionné avec
 - Gestion de projet
 - Linux
 
-- **Autres compétences :**
-  - Réseaux fondamentaux
-  - UML
-  - Méthodes Agiles
-  - Gestion de projet
-  - Linux
-
 ## 🌐 Contacts
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/omar-zinane)
