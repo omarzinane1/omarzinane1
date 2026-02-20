@@ -64,12 +64,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/omarzinane1/omarzinane1/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## 🌍 Portfolio
@@ -85,7 +79,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/omar-zinane">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:omarzinane223@gmail.com">
