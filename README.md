@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F7FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=omarzinane1&label=Profile+Views&color=00F7FF&style=flat" />
 </p>
 
 ---
@@ -58,8 +58,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarzinane1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarzinane1&theme=tokyonight" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/omarzinane1/omarzinane1/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## 🌍 Portfolio
 
 <p align="center">
-<a href="https://YOUR_PORTFOLIO_LINK">
+<a href="https://https://omar-zinane.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
@@ -88,7 +88,7 @@
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:omarzinane223@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
